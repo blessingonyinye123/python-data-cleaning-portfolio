@@ -1,2 +1,2 @@
-# python-data-cleaning-portfolio
-A collection of basic Python scripts and Jupyter Notebooks for data cleaning and formatting.
+# dirty_cafe_sales_data_cleaning
+End-to-end data cleaning project using Python and pandas on a Kaggle dataset.
